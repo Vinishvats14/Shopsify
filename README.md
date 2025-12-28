@@ -4,11 +4,11 @@ A full-stack e-commerce platform featuring real-time delivery tracking, live cha
 
 ##  Key Features
 
-- ** E-commerce:** Full cart and checkout functionality with Stripe payments.
-- ** Role-Based Access:** Distinct dashboards for **Admin**, **User**, and **Delivery Boy**.
-- ** Real-Time Tracking:** Live delivery location updates using Leaflet maps and Socket.io.
-- ** Live Chat:** Real-time messaging system with AI-powered response suggestions.
-- ** Authentication:** Secure login via NextAuth (Google & Credentials).
+-  E-commerce: Full cart and checkout functionality with Stripe payments.
+- Role-Based Access: Distinct dashboards for **Admin**, **User**, and **Delivery Boy**.
+-  Real-Time Tracking: Live delivery location updates using Leaflet maps and Socket.io.
+-  Live Chat: Real-time messaging system with AI-powered response suggestions.
+-  Authentication: Secure login via NextAuth (Google & Credentials).
 
 ##  Tech Stack
 
