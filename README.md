@@ -2,6 +2,9 @@
 
 A full-stack e-commerce platform featuring real-time delivery tracking, live chat with AI suggestions, and comprehensive role-based dashboards.
 
+
+
+** Live Link ** : https://shopsify-1t321h61r-vinu-vats-projects.vercel.app/
 ##  Key Features
 
 -  E-commerce: Full cart and checkout functionality with Stripe payments.
@@ -53,11 +56,5 @@ Run the socket server:
 ```bash
 npm run dev
 ```
-
-##  Deployment
-
-- **Frontend:** Deploy the `1.snapcart` directory to **Vercel**.
-- **Socket Server:** Deploy the `socketServer` directory to **Render** or similar platforms.
-
 ---
 Built with ❤️ by Vinishvats14
