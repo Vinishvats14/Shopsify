@@ -4,7 +4,7 @@ A full-stack e-commerce platform featuring real-time delivery tracking, live cha
 
 
 
-** Live Link ** : https://shopsify-1t321h61r-vinu-vats-projects.vercel.app/
+** Live Link ** : https://shopsify-eta.vercel.app
 ##  Key Features
 
 -  E-commerce: Full cart and checkout functionality with Stripe payments.
